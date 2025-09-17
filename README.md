@@ -10,12 +10,12 @@ Our initial process starts with running our VirtualBox PFsesnse machine and gett
 
 <img width="732" height="255" alt="image" src="https://github.com/user-attachments/assets/bf18edb6-4a57-4feb-b5fe-5f50e4b9a4c3" />
 
-Next we initiate the Ubuntu Linux machine and login to the web-based gui from our firefox browser, we will do our initial configuration of the system and then disable the firewall in order to make changes. 
+Next we initiate the Ubuntu VM and login to the web-based gui from our firefox browser, we will do our initial configuration of the system and then disable the firewall in order to make changes. 
 
 <img width="965" height="429" alt="image" src="https://github.com/user-attachments/assets/72bcba9b-99d8-4c43-b070-696e8b8d98b0" />
 
 
-From there I am logging in and selecting the Firewall rules 
+From there I am logging in and adding Firewall rules 
 
 <img width="1167" height="664" alt="image" src="https://github.com/user-attachments/assets/1144fb2c-5b24-45b4-8c7e-1c7660167016" />
 
