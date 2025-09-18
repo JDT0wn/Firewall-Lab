@@ -10,20 +10,13 @@ Our initial process starts with running our PFsense VM and getting the address i
 
 <img width="678" height="370" alt="image" src="https://github.com/user-attachments/assets/57d017e5-81c6-4cf7-ba20-f4f8555a6ede" />
 
-Next we initiate the Ubuntu VM and login to the web-based gui from our firefox browser, we will do our initial configuration of the system and then disable the firewall in order to make changes. 
+Next we initiate the Ubuntu VM and login to the web-based gui from our firefox browser, we will do our initial configuration of the system and then disable the firewall in order to set our rules and make any other necessary changes. 
 
 <img width="965" height="429" alt="image" src="https://github.com/user-attachments/assets/72bcba9b-99d8-4c43-b070-696e8b8d98b0" />
 
 
-From there I am logging in and adding Firewall rules 
-
-<img width="1167" height="664" alt="image" src="https://github.com/user-attachments/assets/1144fb2c-5b24-45b4-8c7e-1c7660167016" />
-
-Afterwards I create my rule to allow entry from my Kali linux machine.
-<img width="629" height="220" alt="image" src="https://github.com/user-attachments/assets/0dd8770a-1020-41f5-a322-9660788fe921" />
 
 
-<img width="1192" height="589" alt="image" src="https://github.com/user-attachments/assets/8006cfcd-feaa-4fe8-9309-c8a517fde702" />
 
 
 
